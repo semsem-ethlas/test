@@ -1,0 +1,33 @@
+{
+    "dna": "0101060503406",
+    "name": "#549",
+    "description": "MiniGuineas",
+    "image": "https://ipfs.moralis.io:2053/ipfs/QmRVPPDiZwQWZbLdgxygEQLCpznahr5ADeThTnaXsC5V7t/images/0000000000000000000000000000000000000000000000000000000000000549.png",
+    "edition": 549,
+    "date": 1637123816441,
+    "attributes": [
+        {
+            "name": "Green#21.8",
+            "rarity": "original"
+        },
+        {
+            "name": "Albino#4",
+            "rarity": "original"
+        },
+        {
+            "name": "Glasses#6",
+            "rarity": "original"
+        },
+        {
+            "name": "Goatee#10",
+            "rarity": "original"
+        },
+        {
+            "name": "TinfoilHat#1",
+            "rarity": "original"
+        },
+        {
+            "name": "Guitar#1",
+            "rarity": "original"
+        }
+    ]
